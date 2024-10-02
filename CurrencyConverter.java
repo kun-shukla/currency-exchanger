@@ -36,6 +36,6 @@ public class CurrencyConverter {
                 System.out.println("Sorry, that is not a valid option");
             }
         }
-        System.out.println("Exiting the program");
+        System.out.println("Exiting the program edited");
     }
 }
